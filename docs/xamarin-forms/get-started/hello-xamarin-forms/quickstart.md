@@ -456,7 +456,7 @@ Crie o aplicativo Phoneword da seguinte maneira:
 
     ![](quickstart-images/vs/uwp-manifest.png "Abrir o Manifesto UWP")
 
-31. Na página **Funcionalidades**, habilite a funcionalidade **Chamada telefônica**. Isso dá ao aplicativo permissão para fazer uma chamada telefônica:
+31. Na página **Recursos**, habilite a funcionalidade **Chamada telefônica**. Isso dá ao aplicativo permissão para fazer uma chamada telefônica:
 
     ![](quickstart-images/vs/uwp-manifest-changed.png "Habilitar o Recurso de Chamada Telefônica")
 
